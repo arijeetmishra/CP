@@ -1,2 +1,2 @@
 # CP
-CP Practive
+CP Practice
