@@ -15,6 +15,7 @@ class Average {
     }
 }
 ```
+Note: Try to dry run in your mind.  
 a) 7.2  
 b) 7.167  
 c) 7.166666666666667  
